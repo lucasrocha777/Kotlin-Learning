@@ -1,3 +1,3 @@
 fun main() {
-    println("Eae putas")
+    println("Eae")
 }
